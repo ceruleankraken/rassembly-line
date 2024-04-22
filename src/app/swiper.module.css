@@ -1,0 +1,5 @@
+.swiperContainer {
+  --swiper-navigation-color: rgb(255, 255, 255);
+  --swiper-pagination-color: white;
+  border-radius: 10px;
+}
